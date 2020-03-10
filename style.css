@@ -29,10 +29,27 @@ p{
     padding: 5px 10px;  
 }
 button{
+    
     font-size: 20px;
     margin: 10px 10px;
     padding: 10px 10px;
     background-image: linear-gradient(90deg, violet, purple);
     border-radius: 20px;
     border-style: hidden;
+}
+.link{
+    text-decoration: none;
+    color:white;
+}
+.halfway{
+    width:20%;
+    margin:30px 10px;
+    padding: 0px 10px;
+    border: 10px dotted violet;
+}
+ul{
+    font-weight: 800px;
+}
+li{
+    color:whitesmoke;
 }
