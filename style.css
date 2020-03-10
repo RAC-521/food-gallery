@@ -36,3 +36,6 @@ button{
     border-radius: 20px;
     border-style: hidden;
 }
+.link{
+    text-decoration: none;
+}
